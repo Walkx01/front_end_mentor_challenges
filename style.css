@@ -119,20 +119,7 @@ button:hover {
     margin: 5px;
 }
 
-/* desktop first approach */
-/* @media (max-width: 650px) {
 
-    #bottom-left-section,
-    #bottom-right-section {
-        width: 100%;
-
-    }
-
-    #card {
-        height: auto;
-        width: 100%;
-    }
-} */
 
 /* mobile first approach */
 
